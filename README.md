@@ -15,10 +15,10 @@ Una calculadora visualmente atractiva construida con HTML, CSS y JavaScript. Est
 
 ## **Vista previa**
 ### **Interfaz principal**
-![Vista previa de la calculadora](https://via.placeholder.com/800x400)
+![Descripción de la imagen](/images/Screenshot%202024-11-20%20184216.png)
 
 ### **Historial de cálculos**
-![Historial de la calculadora](https://via.placeholder.com/800x400)
+![Descripción de la imagen](/images/Screenshot%202024-11-20%20184411.png)
 
 ---
 
