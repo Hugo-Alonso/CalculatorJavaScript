@@ -1,4 +1,4 @@
-# **Calculadora Web Avanzada**
+# **Calculadora Web**
 
 Una calculadora visualmente atractiva construida con HTML, CSS y JavaScript. Esta aplicación incluye una interfaz amigable, historial de cálculos y un diseño responsivo. Ideal para aprender o enseñar conceptos básicos de desarrollo web.
 
